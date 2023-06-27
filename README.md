@@ -1,2 +1,0 @@
-# react-children-challenge
- 
