@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
 }
@@ -11,7 +12,7 @@
 }
 
 body {
-    background-color: #2F2F2F;
+    background-color: var(--navy);
 }
 
 .avatar {
@@ -54,23 +55,22 @@ body {
 Classes below will help with rendering random 
 background colors for the extra credit
 */
-.navy {
-    background-color: #1F2937;
+.bg-navy {
+    background-color: var(--navy);
 }
 
-.pink {
-    background-color: #DA6AEC;
+.bg-pink {
+    background-color: var(--pink);
 }
 
-.red {
-    background-color: #F43F5E;
+.bg-red {
+    background-color: var(--red);
 }
 
-.blue {
-    background-color: #2F74DC;
+.bg-blue {
+    background-color: var(--blue);
 }
 
-.green {
-    background-color: #22CD90;
+.bg-green {
+    background-color: var(--green);
 }
-
