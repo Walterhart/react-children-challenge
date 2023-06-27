@@ -5,7 +5,7 @@ import Avatar from "./Avatar"
 function App() {
   return (
     <>
-      <Avatar src="./images/bob.jpg" alt="Image" />
+      <Avatar src="./images/bob.png" alt="Bob picture" />
       <br />
       <Avatar>BZ</Avatar>
       <br />
